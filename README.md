@@ -22,8 +22,3 @@ Git & GitHub
 🚀 How to Use
 
 1. Clone the repository:
-
-git clone https://github.com/TanyaSinghrajput/tanya_1.git
-
-
-2. Open index.html in your browser.
